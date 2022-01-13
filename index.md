@@ -1,6 +1,6 @@
 Hello :)
 
-[Link](./lab 1 report.md)
+[Link](./lab1report.md)
 
 
-[Link](https://ghdrud7000.github.io/cse15l-lab-reports/lab 1 report.html)
+[Link](https://ghdrud7000.github.io/cse15l-lab-reports/lab1report.html)
